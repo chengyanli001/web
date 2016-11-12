@@ -1,0 +1,96 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;}
+#wrap{
+	width:1000px;
+	margin:0 auto;
+	background-color:rgba()}
+a{
+	color:rgb(54,48,157);
+	font-size:14px;
+	text-decoration:none;}
+#header{
+	width:99%;
+	height:70px;}
+#logo{
+	float:left;
+	margin-top:10px;
+	margin-left:20px;}
+#caidan{
+	width:70%;
+	height:35px;
+	background-color:rgb(234,243,255);
+	float:right;
+	margin-top:28px;
+	margin-right:20px;
+	border-color:rgb(234,243,255);
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;}
+.liebiao{
+	list-style-type:none;
+	float:right;
+	margin-top:10px;
+	margin-right:20px;}
+#middle{}
+#left{
+	width:50%;
+	height:400px;
+	float:left;
+	margin-top:0;
+	margin-left:10px;}
+#l1{
+	width:155px;
+	height:250px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;}
+#zi{
+	font-weight:600;}
+#l2{width:250px;
+	height:250px;
+	float:left;
+	margin-top:10px;
+	margin-left:50px;}
+#l3{
+	width:95%;
+	height:100px;
+	margin:10px;
+	}
+#right{
+	width:45%;
+	height:330px;
+	background-color:rgb(237,245,255);
+	border:1px solid rgb(179,200,230);
+	border-radius:10px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;}
+#r1{
+	margin:10px;}
+.t1{
+	color:rgb(191,191,191);
+	font-size:18px;
+	height:30px;
+	border:1px solid rgb(191,191,191);
+	border-radius:5px}
+#t2{
+	background-color:rgb(122,175,18);
+	width:80px;
+	height:30px;
+	color:white;
+	border-color:rgb(122,175,18);
+	border-radius:5px;}
+.t3{
+	height:40px;}
+#footer{ text-align:center;}
+#help{ width:97%;
+       height:30px;
+	   background-color:rgb(234,243,255);}
+.hp{
+	list-style-type:none;;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;}
+
+
